@@ -31,8 +31,10 @@ def q(nums,l,r,t)
 
 end
 
+
 nums = [1,3,5,6]
 target = 5
 
 puts q(nums,0,3,4)
-#puts search_insert(nums,4)
+puts w(nums,0,3,4)
+puts search_insert(nums,4)

@@ -36,4 +36,4 @@ def sq(x)
   end
 end
 
-puts sq(1)
+puts my_sqrt(8)
